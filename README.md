@@ -10,7 +10,7 @@
 ## 🌐 Me retrouver
 - [Portfolio](https://portfolio-djepgang.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/djepgang-ngongang-andre-kevin-64212922)
-- [Twitter](@la_keuss)
+- [Twitter](https://x.com/la_keuss)
 
 <!---
 lakeuss98/lakeuss98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
